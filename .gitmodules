@@ -1,0 +1,3 @@
+[submodule "powesrhell"]
+	path = powesrhell
+	url = https://github.com/milenakarpacheva/sharepoint.git
