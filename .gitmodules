@@ -1,3 +1,6 @@
 [submodule "powesrhell"]
 	path = powesrhell
 	url = https://github.com/milenakarpacheva/sharepoint.git
+[submodule "powesrhell/scripts"]
+	path = powesrhell/scripts
+	url = https://github.com/milenakarpacheva/sharepoint.git
