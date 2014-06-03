@@ -4,3 +4,6 @@
 [submodule "powesrhell/scripts"]
 	path = powesrhell/scripts
 	url = https://github.com/milenakarpacheva/sharepoint.git
+[submodule "scripts/new"]
+	path = scripts/new
+	url = https://github.com/milenakarpacheva/sharepoint.git
